@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hello there 👋
 
+### I'm Sakhil Goel. 
+
+I am currently an undergraduate student at the University of Toronto pursuing a Bachelor's degree in Statistics, Economics, and Computer Science.
 <!--
 **Sakhil-Goel/Sakhil-Goel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
